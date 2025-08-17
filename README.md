@@ -13,7 +13,7 @@ The analysis is based on 9 separate datasets covering different aspects of marke
 - **Excel**
   - Power Query: merging 9 datasets into a single final dataset, cleaning, and preprocessing.
   - Pivot Tables: analyzing sales trends, logistics performance, and customer contributions.
-- **Canva:** create visualizations and presentation-ready dashboards to communicate insights.
+- **Canva:** create visualizations and presentation-ready slide to communicate insights.
 ### Key Insights
 - **Total Sales Revenue:** $76B from 10,200 items sold.  
 - **Average Shipping Time:** 11 days overall.
