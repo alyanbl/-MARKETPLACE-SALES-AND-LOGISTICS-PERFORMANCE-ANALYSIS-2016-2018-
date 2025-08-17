@@ -24,5 +24,4 @@ The analysis is based on 9 separate datasets covering different aspects of marke
   - Telephony has highest item count but lower revenue due to lower average price than Cool Stuff.  
   - Fashion, Bags & Accessories generate $1.9B but shipping is slower than average, indicating room for improvement.
 ### Presentation Slide
-A presentation slide has been created to **showcase the analysis and key insights** in a clear, visual storytelling format.  
-It complements the data analysis by highlighting trends, top categories, and actionable recommendations for stakeholders.
+A presentation slide has been created to **showcase the analysis and key insights** in a clear, visual storytelling format. It complements the data analysis by highlighting trends, top categories, and actionable recommendations for stakeholders.
